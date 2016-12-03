@@ -1,4 +1,4 @@
-Tensorflow and Activity Recognition
+TensorFlow and Activity Recognition
 ========
 
 About
@@ -22,4 +22,9 @@ Neural Network Example:
 - Recurrent Neural Network Example on MNIST
 - Recurrent Neural Network with Attention Mechanism
 
-
+Resources:
+- Machine Learning and having it deep and structured(HungYi Lee): http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html 
+- TensorFlow Deep Learning Examples: https://github.com/aymericdamien/TensorFlow-Examples 
+- Long Short-Term Memery (LSTM): http://colah.github.io/posts/2015-08-Understanding-LSTMs/ 
+- Textbook “Deep Learning” by Ian Goodfellow, Yoshua Bengio and Aaron Courville: http://www.deeplearningbook.org/ 
+- Gradient Descent Optimization Algorithms: http://sebastianruder.com/optimizing-gradient-descent/index.html 
